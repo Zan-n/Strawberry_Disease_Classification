@@ -59,9 +59,13 @@ pip install tensorflow matplotlib numpy
 
 ### Training
 
-1. Upload `strawberry.zip` to your Google Drive.
+1. Upload `strawberry.zip` to your Google Drive. 
 2. Open `main_model.ipynb` in Google Colab.
 3. Run all cells — the notebook mounts Drive, extracts the dataset, trains both models, and saves them as `.h5` files.
+
+
+### Dataset Google Drive Link: **[Download Dataset from Google Drive](https://drive.google.com/drive/folders/1fzFdVZvIJ3MsfLNzPxJfq7TzZccwNv-6?usp=sharing)**
+
 
 ### Inference
 

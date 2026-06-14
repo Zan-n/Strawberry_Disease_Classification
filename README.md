@@ -99,6 +99,9 @@ print(f"Predicted: {class_names[np.argmax(score)]} ({100 * np.max(score):.2f}%)"
 └── README.md
 ```
 
+
 ## License
 
-This project is for educational and research purposes.
+This project is licensed under the MIT License — see the [LICENSE](LICENSE) file for details.
+
+Copyright © 2026 Zannatul-Ferdous
